@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.webstyle{
+    height: 200vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+.fly{
+    height: 100px;  
+    padding-top: 1px;
+    direction: right;
+}
+.web{
+    width: 100%;
+    height: 15vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.content h1{
+    font-size: 70px;
+    font-weight: 10;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    color: #232d60;
+}
+.content p{
+    font-size: 20px;
+    color: #6a7199;
+    margin-right: 70px;
+
+}.content {
+    margin-left: 5%;
+    margin-top: 5;
+}
+.arrow .btn{
+    margin-top:150px;
+    display:inline-block;
+    background: linear-gradient(45deg, hsl(241, 91%, 18%), #77ffff);
+    border-radius: 20px;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #fff;
+    box-shadow: 4px 8px 22px rgba(179, 12, 112, 0.15);
+}
+.arrow{
+    font-style:italic ;
+    margin-left: 10%;
+ 
+}
+.tony{
+    height: 75%;
+    position: absolute;
+    bottom: 100px;
+    right: 310px;
+}
+.tonyback{
+    height: 100%;
+    width: 60%;
+    position:absolute;
+   bottom: 20px;
+    left: 758px;
+   display:block;
+}
+.facebook{
+    height: 6%;
+    position: absolute;
+    bottom: 35px;
+   right: 700px;
+}
+.insta{
+    height: 6%;
+    position: absolute;
+    bottom: 35px;
+   right: 550px;
+}
+.twitter{
+    height: 6%;
+    position: absolute;
+    bottom: 35px;
+   right: 440px;
+}
+.pin{
+    height: 6%;
+    position: absolute;
+    bottom: 35px;
+   right: 310px;
+}
+.word h2{
+    font-size: 30px;
+    font-weight: 10;
+    position: absolute;
+    margin-left: 990px;
+    color: #f0e117;
+    bottom: 100px;
+    left: 250px;
+}
+.word p{
+    font-weight: 10;
+    position: absolute;
+    margin-left: 1000px;
+    color: #ffffff;
+    bottom: 60px;
+    left: 320px;
+}
